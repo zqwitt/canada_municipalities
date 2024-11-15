@@ -1,7 +1,7 @@
 # Canadian Municipalities
 
 ```typescript
-interface municipality {
+interface Municipality {
     name: string;
     id: {
       dguid: string; // See https://www150.statcan.gc.ca/n1/pub/92f0138m/92f0138m2019001-eng.htm for details
